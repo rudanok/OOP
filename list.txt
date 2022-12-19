@@ -1,0 +1,6 @@
+Cat{type = 'Млекопитающие', legs=4, owner=Oleg}
+Dog{type = 'Млекопитающие', legs=4, owner=Petya}
+Duck{type = 'Птицы', legs=2, owner=Ivan}
+Eagle{type = 'Птицы', legs=2, owner=Sasha}
+Crocodile{type = 'Рептилии', legs=2, owner=Antarktida}
+Elephant{type = 'Млекопитающие', legs=4, owner=Africa}
