@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "New note 1",
+    "text": "Text of new note 1.",
+    "date": "Jan 23, 2023, 8:16:59 PM"
+  },
+  {
+    "id": "2",
+    "title": "Note 2",
+    "text": "Text of note 2.",
+    "date": "Jan 23, 2023, 8:17:36 PM"
+  },
+  {
+    "id": "4",
+    "title": "Note 4",
+    "text": "Text of note 4.",
+    "date": "Jan 23, 2023, 8:18:13 PM"
+  }
+]
